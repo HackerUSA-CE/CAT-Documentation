@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - cat-issues.md
+  - deployments.md
+  - faq.md
+  - getting-started.md
+  - git-workflow.md
+  - using-cat.md

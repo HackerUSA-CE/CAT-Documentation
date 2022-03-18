@@ -1,5 +1,7 @@
 #### [Filing a Ticket](cat-issues.md) | [Getting CAT](getting-started.md) | [Using CAT](using-cat.md) | [Deployment to Canvas](deployments.md) | [Git Workflow with CAT](git-workflow.md) | [FAQ](faq.md)
 
-# CAT-Documentation
+## FAQ
 
-CAT Documentation in MD format. More pages will get added as more documentation gets written. 
+Here is a list of some Frequently asked questions
+
+### In Progress

@@ -20,8 +20,29 @@ One you have determined that your issue is not a duplicate, you can create a new
 
 Once you choose a template, you will be taken to a template issue with sections for you to fill out. 
 ![Screenshot of the landing page of a bug issue](assets/cat-issues/IssueTemplateLanding.png)
+The issue page will come pre-loaded with some text; anything in `[]` you will want to update.
+
+#### Title
+
+Each template requires you to fill out a breif description of the issue/request while the Bug Report and Deployment templates also have a location aspect to the title. If you are filing a Bug Report or Deployment issue, you will need to indicate if there is a specific place you are experiencing it or if its general. General issues are issues that you or your team have experienced in multiple locations. If you have only experienced it in one area but think it may be a general issue, please put the specific location instead of general; others may comment if they are experiencing the same issue in a different location.
+
+##### Curriculum location
+If your issue is within the CAT editor, the "course the issue is in" can be found in the breadcrumbs at the top of your CAT editor: 
+![example of where to find the curriculum location](./assets/cat-issues/curriculumLocation.png)
+
+##### Class location
+If your issue is within Canvas, the "course the issue is in" can be found in the cards on your dashboard:
+![example of where to find the course location](./assets/cat-issues/classCode.png)
+
+#### Body
+
+The body of the issue has a few sections for you to fill out (indicated by the syntax `##`).
+
+- Current behavior: describe what is currently happening
+- Expected behavior: describe what you think should be happening
+- Steps to reproduce: specify how to reproduce the bug; screenshots are *very* helpful and should be added here
+- Issue checklist: check off these boxes either after submitting the issue or before (by putting an x between the square brackets). **Issues will not be addressed until all of these steps have been completed by the issue creator.**
 
 #### Labels
 
-On the right under `labels` you will see a label will already be loaded; go through the list of labels and apply any that might additionally be relevant; each label also has a description for you to read to ensure that you are applying it correctly. A list of the labels and their descriptions can be found [here](https://github.com/HackerUSA-CE/cat/issues/labels).
-
+On the right under `labels` you will see a label will already be loaded; go through the list of labels and apply any that might be relevant; each label also has a description for you to read to ensure that you are applying it correctly. A list of the labels and their descriptions can be found [here](https://github.com/HackerUSA-CE/cat/issues/labels).
